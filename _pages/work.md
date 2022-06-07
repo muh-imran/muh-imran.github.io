@@ -16,6 +16,6 @@ Here you can find stuff related to my academic work.
 I am currently supervising Caroline Sandsbråten's master thesis.
 
 # Other
-I will be arranging [the isogeny-club](https://the-isogeny-club.github.io/) together with Krijn Reijnders.
+I will be arranging [the isogeny club](https://the-isogeny-club.github.io/) together with Krijn Reijnders.
 
 I was part of the organization committee for [Eurocrypt 2022](https://eurocrypt.iacr.org/2022/) which was hosted in Trondheim.
