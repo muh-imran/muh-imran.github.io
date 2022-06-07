@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Work"
-permalink: /work/
+title: "Events"
+permalink: /events/
 author_profile: true
 ---
 Here you can see which upcoming events you can stalk me at, or what previous events you missed me at.
