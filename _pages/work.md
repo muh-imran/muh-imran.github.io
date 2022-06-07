@@ -7,7 +7,7 @@ author_profile: true
 Here you can find stuff related to my academic work.
 
 # Publications
-¯\\_(ツ)_/¯
+`¯\_(ツ)_/¯`
 
 # Thesis
 [Applying Twisted Hessian Curves to Supersingular Isogeny Diffie-Hellman](https://ntnuopen.ntnu.no/ntnu-xmlui/handle/11250/2835481), Master thesis, 2021.
