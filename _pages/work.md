@@ -16,6 +16,7 @@ Here you can find stuff related to my academic work.
 Currently supervising:
 - Erlend Håkegård's master thesis
 - Georg Skuggedal's master thesis
+
 In 2021-2022, Colin Boyd and I supervised Caroline Sandsbråten's master thesis, 
 
 # Other
