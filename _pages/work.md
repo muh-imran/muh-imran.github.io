@@ -37,7 +37,7 @@ In this paper, we construct an exact quantum algorithm for the hidden subgroup p
 
 ---
 
-## Research in progress
+# Research in progress
 
 ---
 ### Zero sum subsets and hidden subgroup problem
