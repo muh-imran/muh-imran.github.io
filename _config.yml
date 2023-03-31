@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jonathan Komada Eriksen"
+title                    : "Muhammad Imran"
 title_separator          : "-"
-name                     : &name "Jonathan Komada Eriksen"
-description              : &description "PhD Student at NTNU"
-url                      : https://jonathke.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Muhammad Imran"
+description              : &description "PhD Student at Budapest Uin. of Technology & Economics"
+url                      : https://muh-imran.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Jonathke/jonathke.github.io"
+repository               : "muh-imran/muh-imran.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jonathan Komada Eriksen"
-  avatar           : "profile.png"
-  bio              : "PhD student at NTNU"
-  location         :
+  name             : "Muhammad Imran"
+  avatar           : "giithub.jpg"
+  bio              : "PhD student at Budapest Univ. of Technology & Economics"
+  location         : "Budapest, Hungary"
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=pCCid6gAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Jonathke"
+  github           : "muh-imran"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "mh.imran__"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jonathan-komada-eriksen"
+  linkedin         : "muhimran"
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "EriksenKomada"
+  twitter          : #"EriksenKomada"
   vine             :
   weibo            :
   xing             :
