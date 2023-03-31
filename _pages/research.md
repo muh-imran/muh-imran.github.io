@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications and preprints"
-permalink: /work/
+permalink: /research/
 author_profile: true
 ---
 
