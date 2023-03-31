@@ -1,11 +1,17 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student at the [Norwegian University of Science and Technology (NTNU)](https://www.ntnu.edu/) as part of the [NTNU Applied Cryptology Lab](https://www.ntnu.edu/iik/nacl-lab). I work in post-quantum cryptography, with a focus on systems based on isogenies between elliptic curves. Currently, I primarily enjoy cryptanalysis and efficient instantiation of such systems. I work under the supervision of my main supervisor [prof. Colin Boyd](https://www.ntnu.edu/employees/colin.boyd), and my co-supervisors [dr. Craig Costello](https://www.craigcostello.com.au/) and [prof. Kristian Gjøsteen](https://www.ntnu.edu/employees/kristian.gjosteen).
+I am a professional lecturer at Informatics Faculty ([School of Computing](https://telkomuniversity.ac.id/en/school-of-informatics/)) of Telkom University, Bandung, Indonesia. Currently, I am on leave for finishing my Ph.D at [Doctoral School of Mathematics and Computer Science](https://doktori.math.bme.hu/english/index-E.html) at Budapest University of Technology and Economics under the supervision of [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/). 
 
+
+My research interests lie in computational algebra & number theory, and their applications in computer science. Currently, I am working on:
+* Quantum algorithms, especially for some variants of the hidden subgroup problem (HSP);
+* HSP-based cryptanalysis for post-quantum cryptography, especially for isogeny-based cryptography;
+* Quantum cryptography: multi-party quantum computation;
+* Computational algebra.
