@@ -5,18 +5,22 @@ permalink: /research/
 author_profile: true
 ---
 
-### <u>A private set intersection protocol based on multi-party quantum computation for greatest common divisor</u>
+### <u>Zero sum subsets and hidden subgroup problem</u>
 (April - 2023)
+Authors: [Muhammd Imran](https://muh-imran.github.io) & [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/). <br>The preprint version is available in [arXiv]()
+  
+In this project, we succeed to construct the first exact quantum hidden subgroup algorithm for a class of non-abelian groups, namely nilpotent groups of constant class and the prime factors of the groups order are also constant. The main key of the algorithm is by series of reductions to groups of smaller nilpotency class (through its central series) using new zero sum subset algorithm in the group $\mathbb{Z}_p^n$ for prime number $p$.
 
-Author: [Muhammad Imran](https://muh-imran.github.io) <br>The preprint version is available in [arXiv](https://arxiv.org/abs/2303.17196).
+---
+
+### <u>A private set intersection protocol based on multi-party quantum computation for greatest common divisor</u>
+(April - 2023) <br>Author: [Muhammad Imran](https://muh-imran.github.io). <br>The preprint version is available in [arXiv](https://arxiv.org/abs/2303.17196).
 
 Private set intersection (PSI) is a cryptographic primitive that allows two or more parties to learn the intersection of their input sets and nothing else. In this paper, we present a private set intersection protocol based on a new secure multi-party quantum protocol for greatest common divisor (GCD). The protocol is mainly inspired by the recent quantum private set union protocol based on least common multiple by Li, Yang, and Liu. Performance analysis guarantees the correctness and it also shows that the proposed protocols are completely secure in semi-honest model. Moreover, the complexity is proven to be efficient in the size of the input sets.
 
 ---
 ### <u>Hidden stabilizers and the Isogeny to Endomorphism Ring Problem</u>
-(February - 2023)
-
-Author: [Muhammad Imran](https://muh-imran.github.io), [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/), [Péter Kutas](https://sites.google.com/view/peterkutas89/main-page?authuser=0), & [Antonin Leroux](https://tonioecto.github.io/antoninleroux/). <br> The paper is submitted to [Crypto 2023](https://crypto.iacr.org/2023/).
+(February - 2023) <br>Author: [Muhammad Imran](https://muh-imran.github.io), [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/), [Péter Kutas](https://sites.google.com/view/peterkutas89/main-page?authuser=0), & [Antonin Leroux](https://tonioecto.github.io/antoninleroux/). <br> The paper is submitted to [Crypto 2023](https://crypto.iacr.org/2023/).
 
 This paper studies relations between some fundamental computational problems in isogeny-based cryptography. Moreover, we construct a new approach on attacking the Isogeny to Endomorphism Ring Problem (IsERP) using a new quantum algorithm for Borel hidden subgroup problem. We propose a quantum polynomial-time attack with subexponential classical precomputation on IsERP for any isogeny degree.  A key implication of this is that one should not reuse the starting curve and the degree in [pSIDH](https://link.springer.com/chapter/10.1007/978-3-031-22966-4_1).
 
@@ -24,14 +28,14 @@ This paper studies relations between some fundamental computational problems in 
 
 ---
 ### <u>An exact quantum order finding algorithm and its applications</u>
-Author: [Muhammad Imran](https://muh-imran.github.io). <br>The preprint version is available in [arXiv](https://arxiv.org/abs/2205.04240).
+(May - 2022) <br>Author: [Muhammad Imran](https://muh-imran.github.io). <br>The preprint version is available in [arXiv](https://arxiv.org/abs/2205.04240).
 
 The main key of Shor's algorithm for factoring integers $m$ is a quantum algorithm for finding order of elements in the unit group $\mathbb{Z}_m^*$ of the group of integer modulo $m$. However, the quantum algorithm is polynomial-time in the expected sense, which means it may fail with a small probability and in the unlucky case may take a very long time to succeed. By the observation that knowing a multiple of the group order $\varphi(m)$ would factor $m$ in randomized classical polynomial time, finding orders of group elements with a known multiple of the order is not necessarily as hard as factoring, so a multiple of the order may be a good help for derandomizition of the quantum algorithm for order finding problem. Some computational problems where such a help available are primality testing problem and the problem of finding primitive elements in arbitrary finite field $\mathbb{F}_q$, and some cryptographic protocols.
 
 ---
 
 ### <u>An exact quantum hidden subgroup algorithm and applications to solvable groups</u>
-Authors: [Muhammd Imran](https://muh-imran.github.io) & [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/). <br>The paper is available in [Quantum Information and Computation](https://doi.org/10.26421/QIC22.9-10-4) or the preprint version in [arXiv](https://arxiv.org/abs/2202.04047).
+(February - 2022) <br>Authors: [Muhammd Imran](https://muh-imran.github.io) & [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/). <br>The paper is available in [Quantum Information and Computation](https://doi.org/10.26421/QIC22.9-10-4) or the preprint version in [arXiv](https://arxiv.org/abs/2202.04047).
 
 The natural characteristic of quantum algorithms is probabilistic, since it takes advantage from the quantum principles (superposition, interference, entanglement, etc.). The common technique to boost up the success probability of quantum algorithms is amplitude amplification which is a generalization of Grover's algorithm. Therefore, it is a natural question whether it is possible to boost up the probability to certainty while maintaining the efficiency. In the hidden subgroup problem, the existing of exact quantum algorithms is still limited. In this paper, we construct an exact quantum algorithm for the hidden subgroup problem in the infinite family of groups $\mathbb{Z}_{m^k}^n$. Even for $m=3$ and $k=1$, our algorithm appears to be new. Moreover, we provide the applications of the algorithm in some computational problems in solvable groups such as membership testing, the construction of normal series, etc.
 
@@ -40,13 +44,7 @@ The natural characteristic of quantum algorithms is probabilistic, since it take
 # Research in progress
 
 ---
-### <u>Zero sum subsets and hidden subgroup problem</u>
-Authors: [Muhammd Imran](https://muh-imran.github.io) & [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/).
-  
-In this project, we succeed to construct the first exact quantum hidden subgroup algorithm for a class of non-abelian groups, namely nilpotent groups of constant nilpotency class and of smooth order. The main key of the algorithm is by series of reductions to groups of smaller nilpotency class (through its central series) using new zero sum subset algorithm in the group $\mathbb{Z}_p^n$ for prime number $p$.
 
-
----
 ### <u>Stripped, multidimensional version of the Childs–van Dam approach to the hidden multiple shift problem</u>
 Author: [Muhammd Imran](https://muh-imran.github.io).
 
