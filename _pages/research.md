@@ -5,11 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-### <u>Zero sum subsets and hidden subgroup problem</u>
+### <u>Zero sum subsequences and hidden subgroups</u>
 (April - 2023)
 Authors: [Muhammd Imran](https://muh-imran.github.io) & [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/). <br>The preprint version is available in [arXiv]()
   
-In this project, we succeed to construct the first exact quantum hidden subgroup algorithm for a class of non-abelian groups, namely nilpotent groups of constant class and the prime factors of the groups order are also constant. The main key of the algorithm is by series of reductions to groups of smaller nilpotency class (through its central series) using new zero sum subset algorithm in the group $\mathbb{Z}_p^n$ for prime number $p$.
+In this project, we succeed to construct the first exact quantum hidden subgroup algorithm for a class of non-abelian groups, namely nilpotent groups of constant class and the prime factors of the groups order are also constant. The main key of the algorithm is by series of reductions to groups of smaller nilpotency class (through its central series) using new zero sum subsequences algorithm in the group $\mathbb{Z}_p^n$ for prime number $p$.
 
 ---
 
