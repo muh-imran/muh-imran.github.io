@@ -12,7 +12,7 @@ author_profile: true
 
 ## Education
 ---
-* <b>PhD in Math and Computer Science (Sep. 2020 - Present)</b> at Budapest Univ. of Technology and Economics, Hungary.
+* <b>PhD in Mathematics (Sep. 2020 - Present)</b> at Budapest Univ. of Technology and Economics, Hungary.
   * PhD Thesis : Algebraic methods in quantum information processing
   * Supervisor : Prof. Gábor Ivanyos
 * <b>M.Sc in Mathematics (Sep. 2017 - Aug. 2019)</b> at Leiden University, The Netherlands.
