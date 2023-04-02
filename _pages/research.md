@@ -29,7 +29,7 @@ This paper studies relations between some fundamental computational problems in 
 ### <u>An exact quantum order finding algorithm and its applications</u>
 (May - 2022) <br>Author: [Muhammad Imran](https://muh-imran.github.io). <br>The preprint version is available in [arXiv](https://arxiv.org/abs/2205.04240).
 
-We propose an efficient exact quantum order finding algorithm where a multiple of the order is known. As applications, first we show how the algorithm derandomizes the quantum algorithm for primality testing proposed by Donis-Vela and Garcia-Escartin. In the field of quantum cryptography, we propose an improved version of the multiparty quantum computation for least common multiple that is recently proposed by Li and Liu. Finally, we show how the algorithm serves as a subroutine of an efficient exact quantum algorithm for finding primitive elements in arbitrary finite fields.
+We propose an efficient exact quantum order finding algorithm where a multiple of the order is known. As applications, first we show how the algorithm derandomizes the quantum algorithm for primality testing proposed by Donis-Vela and Garcia-Escartin. In the field of quantum cryptography, we propose an improved version of the multiparty quantum computation for least common multiple proposed recently by Li and Liu. Finally, we show how the algorithm serves as a subroutine of an efficient exact quantum algorithm for finding primitive elements in arbitrary finite fields.
 
 ---
 
