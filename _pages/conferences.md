@@ -15,6 +15,11 @@ author_profile: true
 
 ## Conferences
 ---
-* <b>Innovations in Theoretical Computer Science by Simon's Institute</b> [[link]](http://itcs-conf.org)
-* <b>The Conference on Quantum Information Processing at California Institute of Technology</b>  [[link]](https://web.cvent.com/event/8adf8248-432b-499c-91e2-63b83ba3f69e/summary)
-* <b>Crypto 2023</b> [[link]](https://crypto.iacr.org/2023/)
+* Innovations in Theoretical Computer Science by Simon's Institute [[link]](http://itcs-conf.org)
+* The Conference on Quantum Information Processing at California Institute of Technology  [[link]](https://web.cvent.com/event/8adf8248-432b-499c-91e2-63b83ba3f69e/summary)
+* Crypto 2023 [[link]](https://crypto.iacr.org/2023/)
+
+## Talks
+---
+* Guest Lecture: "Finite Hidden Subgroup Problem" at Hasanuddin University
+* Thesis Camp: "Hidden Subgroup Problem in Cryptography" at School of Computing, Telkom University
