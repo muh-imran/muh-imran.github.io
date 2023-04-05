@@ -16,7 +16,7 @@ My research interests lie in computational algebra & number theory, and their ap
 * Quantum cryptography, especially multi-party quantum computation.
 
 ## What's new??
----
+
 * (31-03-2023) I just finished my first work on quantum cryptography: <i>A private set intersection protocol based on multi-party quantum computation for greatest common divisor</i> and submitted to [Quantum Inf. Process.](https://www.springer.com/journal/11128)
 * (15-02-2023) We have finally submitted our paper <i>Hidden stabilizer and the Isogeny to Endomorphism Ring Problem</i> to [Crypto 2023](https://crypto.iacr.org/2023/)
 * (29-08-2022) I got hired as a profesional lecturer in Informatics Faculty of [Telkom University](https://telkomuniversity.ac.id) and I will start my duty right after my PhD completion.
