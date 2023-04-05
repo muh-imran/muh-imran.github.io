@@ -13,7 +13,7 @@ In this project, we succeed to construct the first exact quantum hidden subgroup
 ---
 
 ### <u>A private set intersection protocol based on multi-party quantum computation for greatest common divisor</u>
-(March - 2023) <br>Author: [Muhammad Imran](https://muh-imran.github.io). <br>It has been submitted to [ Quantum Inf. Process.](https://www.springer.com/journal/11128). The preprint version is available in [Cryptology ePrint Archive
+(March - 2023) <br>Author: [Muhammad Imran](https://muh-imran.github.io). <br>It has been submitted to [ Quantum Inf. Process](https://www.springer.com/journal/11128). The preprint version is available in [Cryptology ePrint Archive
 ](https://eprint.iacr.org/2023/476).
 
 Private set intersection (PSI) is a cryptographic primitive that allows two or more parties to learn the intersection of their input sets and nothing else. In this paper, we present a private set intersection protocol based on a new secure multi-party quantum protocol for greatest common divisor (GCD). Performance analysis guarantees the correctness and it also shows that the proposed protocols are completely secure in semi-honest model. Moreover, the complexity is proven to be efficient (poly logarithmic) in the size of the input sets.
