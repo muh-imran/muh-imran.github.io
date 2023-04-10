@@ -13,7 +13,7 @@ In this project, we succeed to construct the first exact quantum hidden subgroup
 ---
 
 ### <u>A private set intersection protocol based on multi-party quantum computation for greatest common divisor</u>
-(March - 2023) <br>Author: [Muhammad Imran](https://muh-imran.github.io). <br>The paper is submitted to [Quantum Inf. Process](https://www.springer.com/journal/11128). The preprint version is available in [Cryptology ePrint Archive](https://eprint.iacr.org/2023/476).
+(March - 2023) <br>Author: [Muhammad Imran](https://muh-imran.github.io). <br>The paper is submitted to for publication. The preprint version is available in [Cryptology ePrint Archive](https://eprint.iacr.org/2023/476).
 
 Private set intersection (PSI) is a cryptographic primitive that allows two or more parties to learn the intersection of their input sets and nothing else. In this paper, we present a private set intersection protocol based on a new secure multi-party quantum protocol for greatest common divisor (GCD). Performance analysis guarantees the correctness and it also shows that the proposed protocols are completely secure in semi-honest model. Moreover, the complexity is proven to be efficient (poly logarithmic) in the size of the input sets.
 
@@ -27,7 +27,7 @@ This paper studies relations between some fundamental computational problems in 
 
 ---
 ### <u>An exact quantum order finding algorithm and its applications</u>
-(May - 2022) <br>Author: [Muhammad Imran](https://muh-imran.github.io). <br>The preprint version is available in [arXiv](https://arxiv.org/abs/2205.04240).
+(May - 2022) <br>Author: [Muhammad Imran](https://muh-imran.github.io). <br>The paper is submitted to for publication. The preprint version is available in [arXiv](https://arxiv.org/abs/2205.04240).
 
 We propose an efficient exact quantum order finding algorithm where a multiple of the order is known. As applications, it derandomizes the quantum algorithm for primality testing proposed by Donis-Vela and Garcia-Escartin. In the field of quantum cryptography, we propose an improved version of the multiparty quantum computation for least common multiple proposed recently by Li and Liu. Finally, the algorithm serves as a subroutine of an efficient exact quantum algorithm for finding primitive elements in arbitrary finite fields.
 
