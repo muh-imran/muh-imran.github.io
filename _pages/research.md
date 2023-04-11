@@ -5,12 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-### <u>Zero sum subsequences and hidden subgroups</u>
-(April - 2023) <br>Authors: [Muhammd Imran](https://muh-imran.github.io) & [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/). <br>The preprint version is available in [arXiv]()
-  
-In this project, we succeed to construct the first exact quantum hidden subgroup algorithm for a class of non-abelian groups, namely nilpotent groups of constant class and the prime factors of the group order are also constant. The main key of the algorithm is by series of reductions to groups of smaller nilpotency class (through its central series) using new zero sum subsequences algorithm in the group $\mathbb{Z}_p^n$ for prime number $p$. 
-
----
 
 ### <u>A private set intersection protocol based on multi-party quantum computation for greatest common divisor</u>
 (March - 2023) <br>Author: [Muhammad Imran](https://muh-imran.github.io). <br>The paper is submitted to for publication. The preprint version is available in [Cryptology ePrint Archive](https://eprint.iacr.org/2023/476).
