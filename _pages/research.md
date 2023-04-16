@@ -61,7 +61,7 @@ In this project, we would like to construct a quantum version of [Berlekamp's al
 ### <u>Hidden subgroup problem in cryptography: a survey</u>
 Author: Muhammad Imran
 
-In this survey, we conduct a systematic literature review on the most recent and important development in classical and quantum algorithms for some instances of finite hidden subgroup problem which have strong connections with cryptography: lattice-based cryptography, isogeny-based cryptography, and some secure cryptographic protocols. The main purpose of this survey is to give cryptographic motivations for further investigations on finite hidden subgroup problem.
+In this survey, we conduct a systematic literature review on the most recent and important development in classical and quantum algorithms for some instances of finite hidden subgroup problem and other closely related problems (hidden shift and its generalization) which have strong connections with cryptography: group-based cryptography, lattice-based cryptography, isogeny-based cryptography, and some secure cryptographic protocols. The main purpose of this survey is to give cryptographic motivations for further investigations on finite hidden subgroup problem.
 
 ---
 ### <u>Recommended Source for Isogeny-based Cryptography</u>
