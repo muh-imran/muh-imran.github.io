@@ -5,14 +5,14 @@ permalink: /research/
 author_profile: true
 ---
 ### <u>Zero sum subsequences and hidden subgroups</u>
-(April - 2023) <br>Authors: [Muhammd Imran](https://muh-imran.github.io) & [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/). <br>The preprint version is available in [arXiv](https://arxiv.org/abs/2304.08376).
+(April - 2023) <br>Authors: [Muhammd Imran](https://muh-imran.github.io) & [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/). <br>The preprint version is available on [arXiv](https://arxiv.org/abs/2304.08376).
   
 In this project, we succeed to construct the first exact quantum hidden subgroup algorithm for a class of non-abelian groups, namely nilpotent groups of constant class and the prime factors of the group order are also constant. The main key of the algorithm is by series of reductions to groups of smaller nilpotency class (through its central series) using new zero sum subsequences algorithm in the group $\mathbb{Z}_p^n$ for prime number $p$. 
 
 ---
 
 ### <u>A private set intersection protocol based on multi-party quantum computation for greatest common divisor</u>
-(March - 2023) <br>Author: [Muhammad Imran](https://muh-imran.github.io). <br>The paper is submitted to for publication. The preprint version is available in [Cryptology ePrint Archive](https://eprint.iacr.org/2023/476).
+(March - 2023) <br>Author: [Muhammad Imran](https://muh-imran.github.io). <br>The paper is submitted to for publication. The preprint version is available on [Cryptology ePrint Archive](https://eprint.iacr.org/2023/476).
 
 Private set intersection (PSI) is a cryptographic primitive that allows two or more parties to learn the intersection of their input sets and nothing else. In this paper, we present a private set intersection protocol based on a new secure multi-party quantum protocol for greatest common divisor (GCD). Performance analysis guarantees the correctness and it also shows that the proposed protocols are completely secure in semi-honest model. Moreover, the complexity is proven to be efficient (poly logarithmic) in the size of the input sets.
 
@@ -26,14 +26,14 @@ This paper studies relations between some fundamental computational problems in 
 
 ---
 ### <u>An exact quantum order finding algorithm and its applications</u>
-(May - 2022) <br>Author: [Muhammad Imran](https://muh-imran.github.io). <br>The paper is submitted to for publication. The preprint version is available in [arXiv](https://arxiv.org/abs/2205.04240).
+(May - 2022) <br>Author: [Muhammad Imran](https://muh-imran.github.io). <br>The paper is submitted to for publication. The preprint version is available on [arXiv](https://arxiv.org/abs/2205.04240).
 
 We propose an efficient exact quantum order finding algorithm where a multiple of the order is known. As applications, it derandomizes the quantum algorithm for primality testing proposed by Donis-Vela and Garcia-Escartin. In the field of quantum cryptography, we propose an improved version of the multiparty quantum computation for least common multiple proposed recently by Li and Liu. Finally, the algorithm serves as a subroutine of an efficient exact quantum algorithm for finding primitive elements in arbitrary finite fields.
 
 ---
 
 ### <u>An exact quantum hidden subgroup algorithm and applications to solvable groups</u>
-(February - 2022) <br>Authors: [Muhammd Imran](https://muh-imran.github.io) & [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/). <br>The paper is available in [Quantum Inf. Comput.](https://doi.org/10.26421/QIC22.9-10-4) or the preprint version in [arXiv](https://arxiv.org/abs/2202.04047).
+(February - 2022) <br>Authors: [Muhammd Imran](https://muh-imran.github.io) & [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/). <br>The paper is available on [Quantum Inf. Comput.](https://doi.org/10.26421/QIC22.9-10-4) or the preprint version on [arXiv](https://arxiv.org/abs/2202.04047).
 
 The natural characteristic of quantum algorithms is probabilistic, since it takes advantage from the quantum principles (superposition, interference, entanglement, etc.). Therefore, it is a natural question whether it is possible to boost up the probability to certainty while maintaining the efficiency. In the hidden subgroup problem, the existing of exact quantum algorithms is still limited. In this paper, we construct an exact quantum algorithm for the hidden subgroup problem in the infinite family of groups $\mathbb{Z}_{m^k}^n$ and its the applications in some computational problems in solvable groups.
 
