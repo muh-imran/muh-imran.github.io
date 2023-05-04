@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 ### <u>Zero sum subsequences and hidden subgroups</u>
-(April - 2023) <br>Authors: [Muhammd Imran](https://muh-imran.github.io) & [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/). <br>The preprint version is available on [arXiv](https://arxiv.org/abs/2304.08376).
+(April - 2023) <br>Authors: [Muhammd Imran](https://muh-imran.github.io) & [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/). <br>The paper is submitted for publication. The preprint version is available on [arXiv](https://arxiv.org/abs/2304.08376).
   
 In this project, we succeed to construct the first exact quantum hidden subgroup algorithm for a class of non-abelian groups, namely nilpotent groups of constant class and the prime factors of the group order are also constant. The main key of the algorithm is by series of reductions to groups of smaller nilpotency class (through its central series) using new zero sum subsequences algorithm in the group $\mathbb{Z}_p^n$ for prime number $p$. 
 
@@ -26,7 +26,7 @@ This paper studies relations between some fundamental computational problems in 
 
 ---
 ### <u>An exact quantum order finding algorithm and its applications</u>
-(May - 2022) <br>Author: [Muhammad Imran](https://muh-imran.github.io). <br>The paper is submitted to for publication. The preprint version is available on [arXiv](https://arxiv.org/abs/2205.04240).
+(May - 2022) <br>Author: [Muhammad Imran](https://muh-imran.github.io). <br>The paper is submitted for publication. The preprint version is available on [arXiv](https://arxiv.org/abs/2205.04240).
 
 We propose an efficient exact quantum order finding algorithm where a multiple of the order is known. As applications, it derandomizes the quantum algorithm for primality testing proposed by Donis-Vela and Garcia-Escartin. In the field of quantum cryptography, we propose an improved version of the multiparty quantum computation for least common multiple proposed recently by Li and Liu. Finally, the algorithm serves as a subroutine of an efficient exact quantum algorithm for finding primitive elements in arbitrary finite fields.
 
