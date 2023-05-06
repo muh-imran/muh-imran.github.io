@@ -17,7 +17,6 @@ My research interests lie in computational algebra & number theory, and their ap
 
 ## What's new??
 
+* (05-05-2023) We collaborate with [Christophe Petit](https://christophe.petit.web.ulb.be/index.html) & [Mingjie Chen](https://www.birmingham.ac.uk/staff/profiles/computer-science/research-fellow/chen-mingjie.aspx) to improve our paper <i>Hidden stabilizer and the Isogeny to Endomorphism Ring Problem</i>. Now we have a quantum polynomial time attack to Isogeny to Endomorphism Ring Problem and pSIDH is proven to be insecure against quantum computer. Previously, we have a quantum polynomial attack but with a subexponential precomputation. 
 * (17-04-2023) We just finalized our manuscript on exact quantum HSP algorithm, <i>Zero sum subsequences and hidden subgroups</i>, which provides an efficient exact quantum HSP algorithm for nilpotent groups.
 * (31-03-2023) I just finished my first work on quantum cryptography, <i>A private set intersection protocol based on multi-party quantum computation for greatest common divisor</i>, and submitted for publication.
-* (15-02-2023) We have finally submitted our paper <i>Hidden stabilizer and the Isogeny to Endomorphism Ring Problem</i> to [Crypto 2023](https://crypto.iacr.org/2023/). This is my first work on post-quantum cryptography, especially isogeny-based cryptography.
-* (29-08-2022) I got hired as a profesional lecturer in Informatics Faculty of [Telkom University](https://telkomuniversity.ac.id) and I will start my duty right after my PhD completion.
