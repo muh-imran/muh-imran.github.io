@@ -18,9 +18,9 @@ Private set intersection (PSI) is a cryptographic primitive that allows two or m
 
 ---
 ### <u>Hidden stabilizers and the Isogeny to Endomorphism Ring Problem</u>
-(February - 2023) <br>Author: [Muhammad Imran](https://muh-imran.github.io), [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/), [Péter Kutas](https://sites.google.com/view/peterkutas89/main-page?authuser=0), & [Antonin Leroux](https://tonioecto.github.io/antoninleroux/). <br> The paper is submitted to [Crypto 2023](https://crypto.iacr.org/2023/).
+(February - 2023) <br>Author: [Muhammad Imran](https://muh-imran.github.io), [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/), [Péter Kutas](https://sites.google.com/view/peterkutas89/main-page?authuser=0), [Antonin Leroux](https://tonioecto.github.io/antoninleroux/), [Christophe Petit](https://christophe.petit.web.ulb.be/index.html) & [Mingjie Chen](https://www.birmingham.ac.uk/staff/profiles/computer-science/research-fellow/chen-mingjie.aspx). 
 
-This paper studies relations between some fundamental computational problems in isogeny-based cryptography. Moreover, we construct a new approach on attacking the Isogeny to Endomorphism Ring Problem (IsERP) using a new quantum algorithm for Borel hidden subgroup problem. We propose a quantum polynomial-time attack with subexponential classical precomputation on IsERP for any isogeny degree.  A key implication of this is that one should not reuse the starting curve and the degree in [pSIDH](https://link.springer.com/chapter/10.1007/978-3-031-22966-4_1).
+This paper studies relations between some fundamental computational problems in isogeny-based cryptography. Moreover, we construct a new approach on attacking the Isogeny to Endomorphism Ring Problem (IsERP) using a new quantum algorithm for Borel hidden subgroup problem. We propose a quantum polynomial-time attack on IsERP for any isogeny degree.  A key implication of this is that [pSIDH](https://link.springer.com/chapter/10.1007/978-3-031-22966-4_1) is safe against quantum computers.
 
 
 
