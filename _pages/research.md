@@ -4,6 +4,17 @@ title: "Publications and preprints"
 permalink: /research/
 author_profile: true
 ---
+### <u>Hidden stabilizers and the Isogeny to Endomorphism Ring Problem</u>
+(February - 2023) <br>Author: [Mingjie Chen](https://www.birmingham.ac.uk/staff/profiles/computer-science/research-fellow/chen-mingjie.aspx), [Muhammad Imran](https://muh-imran.github.io), [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/), [Péter Kutas](https://sites.google.com/view/peterkutas89/main-page?authuser=0), [Antonin Leroux](https://tonioecto.github.io/antoninleroux/), & [Christophe Petit](https://christophe.petit.web.ulb.be/index.html). 
+
+The \emph{Isogeny to Endomorphism Ring Problem} (IsERP) asks to compute the endomorphism ring of the codomain of an isogeny between supersingular curves in characteristic $p$ given only a \emph{representation} for this isogeny, i.e. some data and an algorithm to evaluate this isogeny on any torsion point. This problem plays a central role in isogeny-based cryptography; it underlies the security of 
+pSIDH protocol (ASIACRYPT 2022) and it is at the heart of the recent attacks that broke the SIDH key exchange. Prior to this work, no efficient algorithm was known to solve IsERP for a generic isogeny degree, the hardest case seemingly when the degree is prime. 
+
+In this paper, we introduce a new quantum polynomial-time algorithm to solve IsERP for isogenies whose degrees are odd and have $O(\log\log p)$ many prime factors. As main technical tools, our algorithm uses a quantum algorithm for computing hidden Borel subgroups, a group action on supersingular isogenies from EUROCRYPT 2021, various algorithms for the Deuring correspondence and a new algorithm to lift arbitrary quaternion order elements modulo an odd integer $N$ with $O(\log\log p)$ many prime factors to powersmooth elements.
+
+As a main consequence for cryptography, we obtain a quantum polynomial-time key recovery attack on pSIDH. The technical tools we use may also be of independent interest.
+
+---
 ### <u>Zero sum subsequences and hidden subgroups</u>
 (April - 2023) <br>Authors: [Muhammd Imran](https://muh-imran.github.io) & [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/). <br>The paper is submitted for publication. The preprint version is available on [arXiv](https://arxiv.org/abs/2304.08376).
   
@@ -15,13 +26,6 @@ In this project, we succeed to construct the first exact quantum hidden subgroup
 (March - 2023) <br>Author: [Muhammad Imran](https://muh-imran.github.io). <br>The paper is submitted for publication. The preprint version is available on [Cryptology ePrint Archive](https://eprint.iacr.org/2023/476).
 
 Private set intersection (PSI) is a cryptographic primitive that allows two or more parties to learn the intersection of their input sets and nothing else. In this paper, we present a private set intersection protocol based on a new secure multi-party quantum protocol for greatest common divisor (GCD). Performance analysis guarantees the correctness and it also shows that the proposed protocols are completely secure in semi-honest model. Moreover, the complexity is proven to be efficient (poly logarithmic) in the size of the input sets.
-
----
-### <u>Hidden stabilizers and the Isogeny to Endomorphism Ring Problem</u>
-(February - 2023) <br>Author: [Mingjie Chen](https://www.birmingham.ac.uk/staff/profiles/computer-science/research-fellow/chen-mingjie.aspx), [Muhammad Imran](https://muh-imran.github.io), [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/), [Péter Kutas](https://sites.google.com/view/peterkutas89/main-page?authuser=0), [Antonin Leroux](https://tonioecto.github.io/antoninleroux/), & [Christophe Petit](https://christophe.petit.web.ulb.be/index.html). 
-
-This paper studies relations between some fundamental computational problems in isogeny-based cryptography. Moreover, we construct a new approach on attacking the Isogeny to Endomorphism Ring Problem (IsERP) using a new quantum algorithm for Borel hidden subgroup problem. We propose a quantum polynomial-time attack on IsERP for any isogeny degree.  A key implication of this is that [pSIDH](https://link.springer.com/chapter/10.1007/978-3-031-22966-4_1) is unsafe against quantum computers.
-
 
 
 ---
