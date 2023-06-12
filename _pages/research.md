@@ -45,7 +45,7 @@ The natural characteristic of quantum algorithms is probabilistic, since it take
 ### <u>Stripped, multidimensional version of the Childs–van Dam approach to the hidden multiple shift problem</u>
 Author: [Muhammd Imran](https://muh-imran.github.io).
 
-The hidden multiple shift problem (HMS) can be seen as an interpolation between the abelian and dihedral hidden subgroup problems. The study of HMS recently appears as a promising approach to both lattice-based and  isogeny-based cryptography, see [BKSW18](https://link.springer.com/chapter/10.1007/978-3-319-76581-5_24) and [IIKL23](https://eprint.iacr.org/2023/779) respectively. In this project, we would like to construct a stripped version of the [Childs-van Dam](https://arxiv.org/abs/quant-ph/0507190) method to the hidden multiple shift problem for multidimensional case, particularly for constant dimension/rank.
+The hidden multiple shift problem (HMS) can be seen as an interpolation between the abelian and dihedral hidden subgroup problems. The study of HMS recently appears as a promising approach to both lattice-based and  isogeny-based cryptography, see [BKSW18](https://link.springer.com/chapter/10.1007/978-3-319-76581-5_24) and [CII+23](https://eprint.iacr.org/2023/779) respectively. In this project, we would like to construct a stripped version of the [Childs-van Dam](https://arxiv.org/abs/quant-ph/0507190) method to the hidden multiple shift problem for multidimensional case, particularly for constant dimension/rank.
 
 ---
 ### <u>An exact quantum algorithm for factoring univariate polynomials over finite fields</u>
