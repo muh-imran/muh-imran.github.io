@@ -17,7 +17,6 @@ author_profile: true
 ---
 * Innovations in Theoretical Computer Science by Simon's Institute [[link]](http://itcs-conf.org)
 * The Conference on Quantum Information Processing at California Institute of Technology  [[link]](https://web.cvent.com/event/8adf8248-432b-499c-91e2-63b83ba3f69e/summary)
-* Crypto 2023 [[link]](https://crypto.iacr.org/2023/)
 
 ## Talks
 ---
