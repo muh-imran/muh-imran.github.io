@@ -23,3 +23,5 @@ author_profile: true
 ---
 * Guest Lecture: "Finite Hidden Subgroup Problem" at Hasanuddin University
 * Thesis Camp: "Hidden Subgroup Problem in Cryptography" at School of Computing, Telkom University
+* Algebra Joint Seminar: "Hidden Subgroup and Shift Problem in Post-Quantum Cryptography" Organized by Indonesian Algebra Society
+* "Hidden Shift Problem: A quantum cryptanalysis for LWE and Isogeny Problem" at Center for Cryptography and Cyber Security, Gadjah Mada University
