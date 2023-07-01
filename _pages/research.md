@@ -9,41 +9,31 @@ author_profile: true
 ### <u>On the hidden multiple shift problem</u>
 (July 2023) <br>Author: [Muhammd Imran](https://muh-imran.github.io).
 
-We consider $\textit{the hidden multiple shift}$ problem, a generalization of the hidden shift problem, and present two distinct quantum algorithms which work efficiently for two different sets of parameters. Let $q$ be an integer greater than $1$, not necessarily prime, let $n\in \mathbb{N}$ and $2\leq r\leq q$. The hidden multiple shift problem $HMS(q,n,r)$ is the following. We are given a subset $H\subseteq \mathbb{Z}_q$ of cardinality $r$. A function $f_s:\mathbb{Z}_q^n\times H\rightarrow \{0,1\}^l$ is given by an oracle, where $f_s(x,h)=f(x-hs)$ for some $s\in \mathbb{Z}_q^n$, and an injective function $f:\mathbb{Z}_q^n \rightarrow \{0,1\}^l$. The goal is to find $s$ modulo $gcd(q,h-h':h,h'\in H)$. First, we present a PGM-free multidimensional version of Childs--van Dam approach for the hidden multiple shift problem which is efficient for the subset $H$ of size greater or equal to $q^{\epsilon}$ for any fixed $\epsilon>0$. Next, we consider the case where $H$ is a subgroup of the multiplicative group $\mathbb{Z}_q^*$. This is equivalent to the hidden subgroup problem on the semidirect product $\mathbb{Z}_q^n\rtimes H$ where the hidden subgroup is promised to be a conjugate of $H$. Moreover, we present a quantum algorithm for this case extending the previous result by Ivanyos \emph{et.al} which works only for prime $q$.
-
 
 ---
 ### <u>Hidden stabilizers and the Isogeny to Endomorphism Ring Problem</u>
 (May - 2023) <br>Author: [Mingjie Chen](https://www.birmingham.ac.uk/staff/profiles/computer-science/research-fellow/chen-mingjie.aspx), [Muhammad Imran](https://muh-imran.github.io), [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/), [Péter Kutas](https://sites.google.com/view/peterkutas89/main-page?authuser=0), [Antonin Leroux](https://tonioecto.github.io/antoninleroux/), & [Christophe Petit](https://christophe.petit.web.ulb.be/index.html). <br>The preprint version is available on [Cryptology ePrint Archive](https://eprint.iacr.org/2023/779) or on [arXiv](https://arxiv.org/abs/2305.19897).
 
-In this paper, we introduce a new quantum polynomial-time algorithm to solve IsERP for isogenies whose degrees are odd and have $O(\log\log p)$ many prime factors. As main technical tools, our algorithm uses a quantum algorithm for computing hidden Borel subgroups, a group action on supersingular isogenies from EUROCRYPT 2021, various algorithms for the Deuring correspondence and a new algorithm to lift arbitrary quaternion order elements modulo an odd integer $N$ with $O(\log\log p)$ many prime factors to powersmooth elements. As a main consequence for cryptography, we obtain a quantum polynomial-time key recovery attack on pSIDH. The technical tools we use may also be of independent interest.
 
 ---
 ### <u>Zero sum subsequences and hidden subgroups</u>
 (April - 2023) <br>Authors: [Muhammd Imran](https://muh-imran.github.io) & [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/). <br>The paper is submitted for publication. The preprint version is available on [arXiv](https://arxiv.org/abs/2304.08376).
   
-In this project, we succeed to construct the first exact quantum hidden subgroup algorithm for a class of non-abelian groups, namely nilpotent groups of constant class and the prime factors of the group order are also constant. The main key of the algorithm is by series of reductions to groups of smaller nilpotency class (through its central series) using new zero sum subsequences algorithm in the group $\mathbb{Z}_p^n$ for prime number $p$. 
 
 ---
 
 ### <u>A private set intersection protocol based on multi-party quantum computation for greatest common divisor</u>
 (March - 2023) <br>Author: [Muhammad Imran](https://muh-imran.github.io). <br>The paper is submitted for publication. The preprint version is available on [Cryptology ePrint Archive](https://eprint.iacr.org/2023/476).
 
-Private set intersection (PSI) is a cryptographic primitive that allows two or more parties to learn the intersection of their input sets and nothing else. In this paper, we present a private set intersection protocol based on a new secure multi-party quantum protocol for greatest common divisor (GCD). Performance analysis guarantees the correctness and it also shows that the proposed protocols are completely secure in semi-honest model. Moreover, the complexity is proven to be efficient (poly logarithmic) in the size of the input sets.
-
 
 ---
 ### <u>An exact quantum order finding algorithm and its applications</u>
 (May - 2022) <br>Author: [Muhammad Imran](https://muh-imran.github.io). <br>The paper is submitted for publication. The preprint version is available on [arXiv](https://arxiv.org/abs/2205.04240).
 
-We propose an efficient exact quantum order finding algorithm where a multiple of the order is known. As applications, it derandomizes the quantum algorithm for primality testing proposed by Donis-Vela and Garcia-Escartin. In the field of quantum cryptography, we propose an improved version of the multiparty quantum computation for least common multiple proposed recently by Li and Liu. Finally, the algorithm serves as a subroutine of an efficient exact quantum algorithm for finding primitive elements in arbitrary finite fields.
-
 ---
 
 ### <u>An exact quantum hidden subgroup algorithm and applications to solvable groups</u>
 (February - 2022) <br>Authors: [Muhammd Imran](https://muh-imran.github.io) & [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/). <br>The paper is available on [Quantum Inf. Comput.](https://doi.org/10.26421/QIC22.9-10-4) or the preprint version on [arXiv](https://arxiv.org/abs/2202.04047).
-
-The natural characteristic of quantum algorithms is probabilistic, since it takes advantage from the quantum principles (superposition, interference, entanglement, etc.). Therefore, it is a natural question whether it is possible to boost up the probability to certainty while maintaining the efficiency. In the hidden subgroup problem, the existing of exact quantum algorithms is still limited. In this paper, we construct an exact quantum algorithm for the hidden subgroup problem in the infinite family of groups $\mathbb{Z}_{m^k}^n$ and its applications in some computational problems in solvable groups.
 
 ---
 
