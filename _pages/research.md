@@ -4,6 +4,15 @@ title: "Publications and preprints"
 permalink: /research/
 author_profile: true
 ---
+
+
+### <u>On the hidden multiple shift problem</u>
+(July 2023) <br>Author: [Muhammd Imran](https://muh-imran.github.io).
+
+We consider \emph{the hidden multiple hidden shift} problem, a generalization of the hidden shift problem, and present two distinct quantum algorithms which work efficiently for two different sets of parameters. Let $q$ be an integer greater than $1$, not necessarily prime, let $n\in \N$ and $2\leq r\leq q$. The hidden multiple shift problem $\HMS(q,n,r)$ is the following. We are given a subset $H\subseteq \mathbb{Z}_q$ of cardinality $r$. A function $f_s:\mathbb{Z}_q^n\times H\rightarrow \{0,1\}^l$ is given by an oracle, where $f_s(x,h)=f(x-hs)$ for some $s\in \mathbb{Z}_q^n$, and an injective function $f:\mathbb{Z}_q^n \rightarrow \{0,1\}^l$. The goal is to find $s$ modulo $gcd\{q,h-h':h,h'\in H\}$. First, we present a PGM--free multidimensional version of Childs--van Dam approach for the hidden multiple shift problem which is efficient for the subset $H$ of size greater or equal to $q^{\epsilon}$ for any fixed $\epsilon>0$. Next, we consider the case where $H$ is a subgroup of the multiplicative group $\mathbb{Z}_q^*$. This is equivalent to the hidden subgroup problem on the semidirect product $\mathbb{Z}_q^n\rtimes H$ where the hidden subgroup is promised to be a conjugate of $H$. Moreover, we present a quantum algorithm for this case extending the previous result by Ivanyos \emph{et.al} which works only for prime $q$.
+
+
+---
 ### <u>Hidden stabilizers and the Isogeny to Endomorphism Ring Problem</u>
 (May - 2023) <br>Author: [Mingjie Chen](https://www.birmingham.ac.uk/staff/profiles/computer-science/research-fellow/chen-mingjie.aspx), [Muhammad Imran](https://muh-imran.github.io), [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/), [Péter Kutas](https://sites.google.com/view/peterkutas89/main-page?authuser=0), [Antonin Leroux](https://tonioecto.github.io/antoninleroux/), & [Christophe Petit](https://christophe.petit.web.ulb.be/index.html). <br>The preprint version is available on [Cryptology ePrint Archive](https://eprint.iacr.org/2023/779) or on [arXiv](https://arxiv.org/abs/2305.19897).
 
@@ -40,12 +49,6 @@ The natural characteristic of quantum algorithms is probabilistic, since it take
 
 # Research in progress
 
----
-
-### <u>Stripped, multidimensional version of the Childs–van Dam approach to the hidden multiple shift problem</u>
-Author: [Muhammd Imran](https://muh-imran.github.io).
-
-The hidden multiple shift problem (HMS) can be seen as an interpolation between the abelian and dihedral hidden subgroup problems. The study of HMS recently appears as a promising approach to both lattice-based and  isogeny-based cryptography, see [BKSW18](https://link.springer.com/chapter/10.1007/978-3-319-76581-5_24) and [CII+23](https://eprint.iacr.org/2023/779) respectively. In this project, we would like to construct a stripped version of the [Childs-van Dam](https://arxiv.org/abs/quant-ph/0507190) method to the hidden multiple shift problem for multidimensional case, particularly for constant dimension/rank.
 
 ---
 ### <u>An exact quantum algorithm for factoring univariate polynomials over finite fields</u>
