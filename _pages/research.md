@@ -43,7 +43,7 @@ We propose an efficient exact quantum order finding algorithm where a multiple o
 ### <u>An exact quantum hidden subgroup algorithm and applications to solvable groups</u>
 (February - 2022) <br>Authors: [Muhammd Imran](https://muh-imran.github.io) & [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/). <br>The paper is available on [Quantum Inf. Comput.](https://doi.org/10.26421/QIC22.9-10-4) or the preprint version on [arXiv](https://arxiv.org/abs/2202.04047).
 
-The natural characteristic of quantum algorithms is probabilistic, since it takes advantage from the quantum principles (superposition, interference, entanglement, etc.). Therefore, it is a natural question whether it is possible to boost up the probability to certainty while maintaining the efficiency. In the hidden subgroup problem, the existing of exact quantum algorithms is still limited. In this paper, we construct an exact quantum algorithm for the hidden subgroup problem in the infinite family of groups $\mathbb{Z}_{m^k}^n$ and its the applications in some computational problems in solvable groups.
+The natural characteristic of quantum algorithms is probabilistic, since it takes advantage from the quantum principles (superposition, interference, entanglement, etc.). Therefore, it is a natural question whether it is possible to boost up the probability to certainty while maintaining the efficiency. In the hidden subgroup problem, the existing of exact quantum algorithms is still limited. In this paper, we construct an exact quantum algorithm for the hidden subgroup problem in the infinite family of groups $\mathbb{Z}_{m^k}^n$ and its applications in some computational problems in solvable groups.
 
 ---
 
