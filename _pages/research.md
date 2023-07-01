@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-### <u>On the hidden multiple shift problem</u>
+* <u>On the hidden multiple shift problem</u>
 (July 2023) <br>Author: [Muhammd Imran](https://muh-imran.github.io).
 
 
