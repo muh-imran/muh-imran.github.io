@@ -36,7 +36,7 @@ author_profile: true
 
 
 ---
-* On the hidden multiple shift problem
+* On the hidden multiple shift problem.
  <br>Author: [M Imran](https://muh-imran.github.io).
 * A quantum algorithm for semidirect product discrete logarithm on elliptic curves.
  <br>Author: [M Imran](https://muh-imran.github.io).
