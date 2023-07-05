@@ -5,32 +5,32 @@ permalink: /research/
 author_profile: true
 ---
 
-* <u>(May - 2023):</u> Hidden stabilizers and the Isogeny to Endomorphism Ring Problem
+* Hidden stabilizers and the Isogeny to Endomorphism Ring Problem
 <br>Author: [M Chen](https://www.birmingham.ac.uk/staff/profiles/computer-science/research-fellow/chen-mingjie.aspx), [M Imran](https://muh-imran.github.io), [G Ivanyos](http://old.sztaki.hu/~ivanyos/), [P Kutas](https://sites.google.com/view/peterkutas89/main-page?authuser=0), [A Leroux](https://tonioecto.github.io/antoninleroux/), & [C Petit](https://christophe.petit.web.ulb.be/index.html).
 <br>[(Cryptology ePrint)](https://eprint.iacr.org/2023/779) or [(arXiv)](https://arxiv.org/abs/2305.19897).
 
 
 ---
-* <u>(April - 2023):</u> Zero sum subsequences and hidden subgroups
+* Zero sum subsequences and hidden subgroups
 <br>Authors: [M Imran](https://muh-imran.github.io) & [G Ivanyos](http://old.sztaki.hu/~ivanyos/).
 <br>[(arXiv)](https://arxiv.org/abs/2304.08376).
   
 
 ---
 
-* <u>(March - 2023):</u> A private set intersection protocol based on multi-party quantum computation for greatest common divisor
+* A private set intersection protocol based on multi-party quantum computation for greatest common divisor
 <br>Author: [M Imran](https://muh-imran.github.io).
 <br>[(Cryptology ePrint)](https://eprint.iacr.org/2023/476).
 
 
 ---
-* <u>(May - 2022):</u> An exact quantum order finding algorithm and its applications
+* An exact quantum order finding algorithm and its applications
 <br>Author: [M Imran](https://muh-imran.github.io).
 <br>[(arXiv)](https://arxiv.org/abs/2205.04240).
 
 ---
 
-* <u>(February - 2022):</u> An exact quantum hidden subgroup algorithm and applications to solvable groups
+* An exact quantum hidden subgroup algorithm and applications to solvable groups
 <br>Authors: [M Imran](https://muh-imran.github.io) & [G Ivanyos](http://old.sztaki.hu/~ivanyos/).
 <br>[(Quantum Inf. Comput.)](https://doi.org/10.26421/QIC22.9-10-4) or [(arXiv)](https://arxiv.org/abs/2202.04047).
 
