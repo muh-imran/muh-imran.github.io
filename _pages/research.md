@@ -42,10 +42,10 @@ author_profile: true
 ---
 * On the hidden multiple shift problem
  <br>Author: [M Imran](https://muh-imran.github.io).
-* A quantum algorithm for semidirect product discrete logarithm on elliptic curves
-  <br>Author: [M Imran](https://muh-imran.github.io).
-* An exact quantum algorithm for factoring univariate polynomials over finite fields
-Author: [Muhammd Imran](https://muh-imran.github.io).
+* A quantum algorithm for semidirect product discrete logarithm on elliptic curves.
+ <br>Author: [M Imran](https://muh-imran.github.io).
+* An exact quantum algorithm for factoring univariate polynomials over finite fields.
+ <br> Author: [Muhammd Imran](https://muh-imran.github.io).
 
 ---
 ## Lecture notes & systematic literature reviews
