@@ -45,7 +45,7 @@ author_profile: true
 * A quantum algorithm for semidirect product discrete logarithm on elliptic curves.
  <br>Author: [M Imran](https://muh-imran.github.io).
 * An exact quantum algorithm for factoring univariate polynomials over finite fields.
- <br> Author: [Muhammd Imran](https://muh-imran.github.io).
+ <br> Author: [M Imran](https://muh-imran.github.io).
 
 ---
 ## Lecture notes & systematic literature reviews
