@@ -9,7 +9,7 @@ author_profile: true
 ### 2023
 * A quantum algorithm for semidirect product discrete logarithm on elliptic curves.
  <br>Author: [M Imran](https://muh-imran.github.io).
- <br>[Cryptology ePrint](https://eprint.iacr.org/2023/1052)
+ <br>[(Cryptology ePrint)](https://eprint.iacr.org/2023/1052)
 * Hidden stabilizers and the Isogeny to Endomorphism Ring Problem
 <br>Author: [M Chen](https://www.birmingham.ac.uk/staff/profiles/computer-science/research-fellow/chen-mingjie.aspx), [M Imran](https://muh-imran.github.io), [G Ivanyos](http://old.sztaki.hu/~ivanyos/), [P Kutas](https://sites.google.com/view/peterkutas89/main-page?authuser=0), [A Leroux](https://tonioecto.github.io/antoninleroux/), & [C Petit](https://christophe.petit.web.ulb.be/index.html).
 <br>[(Cryptology ePrint)](https://eprint.iacr.org/2023/779) or [(arXiv)](https://arxiv.org/abs/2305.19897).
