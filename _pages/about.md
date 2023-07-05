@@ -12,8 +12,8 @@ I am a lecturer at Informatics Faculty ([School of Computing](https://telkomuniv
 
 My research interests lie in computational algebra & number theory, and their applications in computer science. Currently, I am working on:
 * Quantum algorithms, especially for some variants of the hidden subgroup problem (HSP);
-* HSP-based cryptanalysis for post-quantum cryptography, especially for isogeny-based cryptography;
-* Quantum cryptography, especially multi-party quantum computation.
+* HSP-based cryptanalysis for post-quantum cryptography;
+* Quantum cryptography.
 
 ## What's new??
 * (05-07-2023) I just finished a new manuscript on quantum algorithm, <i>A quantum algorithm for semidirect product discrete logarithm on elliptic curves</i>. 
