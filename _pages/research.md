@@ -5,12 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-
-* <u>(July 2023):</u> On the hidden multiple shift problem
- <br>Author: [M Imran](https://muh-imran.github.io).
-
-
----
 * <u>(May - 2023):</u> Hidden stabilizers and the Isogeny to Endomorphism Ring Problem
 <br>Author: [M Chen](https://www.birmingham.ac.uk/staff/profiles/computer-science/research-fellow/chen-mingjie.aspx), [M Imran](https://muh-imran.github.io), [G Ivanyos](http://old.sztaki.hu/~ivanyos/), [P Kutas](https://sites.google.com/view/peterkutas89/main-page?authuser=0), [A Leroux](https://tonioecto.github.io/antoninleroux/), & [C Petit](https://christophe.petit.web.ulb.be/index.html).
 <br>[(Cryptology ePrint)](https://eprint.iacr.org/2023/779) or [(arXiv)](https://arxiv.org/abs/2305.19897).
@@ -46,10 +40,12 @@ author_profile: true
 
 
 ---
+* On the hidden multiple shift problem
+ <br>Author: [M Imran](https://muh-imran.github.io).
+* A quantum algorithm for semidirect product discrete logarithm on elliptic curves
+  <br>Author: [M Imran](https://muh-imran.github.io).
 * An exact quantum algorithm for factoring univariate polynomials over finite fields
 Author: [Muhammd Imran](https://muh-imran.github.io).
-
-In this project, we would like to construct a quantum version of [Berlekamp's algorithm](https://en.wikipedia.org/wiki/Berlekamp%27s_algorithm).
 
 ---
 ## Lecture notes & systematic literature reviews
