@@ -32,7 +32,7 @@ author_profile: true
 
 ---
 
-# Research in progress
+## Research in progress
 
 
 ---
@@ -44,7 +44,7 @@ author_profile: true
  <br> Author: [M Imran](https://muh-imran.github.io).
 
 ---
-### Lecture notes & systematic literature reviews
+## Lecture notes & systematic literature reviews
 
 ---
 * Hidden subgroup problem in cryptography: a survey
