@@ -7,7 +7,7 @@ author_profile: true
 
 ---
 ### 2023
-* A quantum algorithm for semidirect discrete logarithm problem on elliptic curves.
+* A quantum algorithm for the semidirect discrete logarithm problem on elliptic curves.
  <br>Author: [M Imran](https://muh-imran.github.io).
  <br>[(Cryptology ePrint)](https://eprint.iacr.org/2023/1052)
 * Hidden stabilizers and the Isogeny to Endomorphism Ring Problem
