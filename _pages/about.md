@@ -7,10 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a lecturer at Informatics Faculty ([School of Computing](https://telkomuniversity.ac.id/en/school-of-informatics/)) of Telkom University, Bandung, Indonesia. Currently, I am on leave for finishing my Ph.D at [Doctoral School of Mathematics and Computer Science](https://doktori.math.bme.hu/english/index-E.html) at Budapest University of Technology and Economics under the supervision of [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/). 
+I am a Ph.D math student diving into computational algebra and quantum computing at [Doctoral School of Mathematics and Computer Science](https://doktori.math.bme.hu/english/index-E.html) of Budapest University of Technology and Economics under the supervision of [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/). 
 
+Previously, I finished my master degree in mathematics specialized in algebra, geometry, and number theory at [Leiden University](https://www.universiteitleiden.nl/en/education/study-programmes/master/mathematics/algebra-geometry-and-number-theory), The Netherlands. I studied Grobner basis for decoding linear codes under the supervision of [Bas Edixhoven](https://en.wikipedia.org/wiki/Bas_Edixhoven).
 
-My research interests lie in computational algebra & number theory, and their applications in computer science. Currently, I am working on:
+Currently, I am working on:
 * Quantum algorithms, especially for some variants of the hidden subgroup problem (HSP);
 * HSP-based cryptanalysis for post-quantum cryptography;
 * Quantum cryptography.
