@@ -17,7 +17,6 @@ Currently, I am working on:
 * Quantum cryptography.
 
 ## What's new??
-* (05-07-2023) I just finished a new manuscript on quantum algorithm, <i>A quantum algorithm for semidirect product discrete logarithm on elliptic curves</i>. 
 * (10-05-2023) We collaborate with [Christophe Petit](https://christophe.petit.web.ulb.be/index.html) & [Mingjie Chen](https://www.birmingham.ac.uk/staff/profiles/computer-science/research-fellow/chen-mingjie.aspx) to improve our paper <i>Hidden stabilizer and the Isogeny to Endomorphism Ring Problem</i>. Now we have a quantum polynomial time attack for Isogeny to Endomorphism Ring Problem and [pSIDH](https://link.springer.com/chapter/10.1007/978-3-031-22966-4_1) is completely broken against quantum computer. Previously, we have a quantum polynomial attack but with a subexponential precomputation. 
 * (17-04-2023) We just finalized our manuscript on exact quantum HSP algorithm, <i>Zero sum subsequences and hidden subgroups</i>, which provides an efficient exact quantum HSP algorithm for nilpotent groups.
 * (31-03-2023) I just finished my first work on quantum cryptography, <i>A private set intersection protocol based on multi-party quantum computation for greatest common divisor</i>, and submitted for publication.
