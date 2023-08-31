@@ -9,7 +9,7 @@ author_profile: true
 ---
 During my PhD, I teach some algebra and computer science courses:
 
-* <b> Mathematics M1</b>, Fall 2023 <br> It contains basic graph theory and probability theory for Civil Engineering MSc Students.
+* <b> Mathematics M1</b>, Fall 2023 <br> It contains basic graph and probability theory for Civil Engineering MSc Students.
 * <b>Introduction to Algebra 2</b>, Spring 2022 <br>Together with [Erdélyi Márton](https://math.bme.hu/~merdelyi/).
 * <b>Introduction to Algebra 1</b>, Fall 2021 <br>Together with [Erdélyi Márton](https://math.bme.hu/~merdelyi/).
 * <b>Informatics 2</b>, Spring 2021 <br>Together with [Wettl Ferenc](https://algebra.math.bme.hu/wettl-ferenc).
