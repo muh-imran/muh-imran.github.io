@@ -7,10 +7,10 @@ author_profile: true
 
 ---
 ### 2023
-* Hidden stabilizers and the Isogeny to Endomorphism Ring Problem
-<br>Author: [M Chen](https://www.birmingham.ac.uk/staff/profiles/computer-science/research-fellow/chen-mingjie.aspx), [M Imran](https://muh-imran.github.io), [G Ivanyos](http://old.sztaki.hu/~ivanyos/), [P Kutas](https://sites.google.com/view/peterkutas89/main-page?authuser=0), [A Leroux](https://tonioecto.github.io/antoninleroux/), & [C Petit](https://christophe.petit.web.ulb.be/index.html).
-<br>[(Cryptology ePrint)](https://eprint.iacr.org/2023/779) or [(arXiv)](https://arxiv.org/abs/2305.19897).
-<br> Accepted in [Asiacrypt 2023](http://asiacrypt.iacr.org/2023/).
+* <b>Hidden stabilizers and the Isogeny to Endomorphism Ring Problem</b>
+<br>[Mingjie Chen](https://www.birmingham.ac.uk/staff/profiles/computer-science/research-fellow/chen-mingjie.aspx), [Muhammad Imran](https://muh-imran.github.io), [Gabor Ivanyos](http://old.sztaki.hu/~ivanyos/), [Peter Kutas](https://sites.google.com/view/peterkutas89/main-page?authuser=0), [Antonin Leroux](https://tonioecto.github.io/antoninleroux/), & [Christophe Petit](https://christophe.petit.web.ulb.be/index.html).
+<br> Accepted at [Asiacrypt 2023](http://asiacrypt.iacr.org/2023/). Available on [(Cryptology ePrint)](https://eprint.iacr.org/2023/779) or [(arXiv)](https://arxiv.org/abs/2305.19897).
+
 
 * Zero sum subsequences and hidden subgroups
 <br>Authors: [M Imran](https://muh-imran.github.io) & [G Ivanyos](http://old.sztaki.hu/~ivanyos/).
