@@ -12,24 +12,24 @@ author_profile: true
 <br> Accepted at [Asiacrypt 2023](http://asiacrypt.iacr.org/2023/). Available on [(Cryptology ePrint)](https://eprint.iacr.org/2023/779) or [(arXiv)](https://arxiv.org/abs/2305.19897).
 
 
-* Zero sum subsequences and hidden subgroups
-<br>Authors: [M Imran](https://muh-imran.github.io) & [G Ivanyos](http://old.sztaki.hu/~ivanyos/).
-<br>[(arXiv)](https://arxiv.org/abs/2304.08376).
+* <b>Zero sum subsequences and hidden subgroups</b>
+<br>[Muhammad Imran](https://muh-imran.github.io) & [Gabor Ivanyos](http://old.sztaki.hu/~ivanyos/).
+<br>Available on [(arXiv)](https://arxiv.org/abs/2304.08376).
   
-* A private set intersection protocol based on multi-party quantum computation for greatest common divisor
-<br>Author: [M Imran](https://muh-imran.github.io).
-<br>[(Cryptology ePrint)](https://eprint.iacr.org/2023/476).
+* <b>A private set intersection protocol based on multi-party quantum computation for greatest common divisor</b>
+<br>[Muhammad Imran](https://muh-imran.github.io).
+<br>Available on [(Cryptology ePrint)](https://eprint.iacr.org/2023/476).
 
 
 ---
 ### 2022
-* An exact quantum order finding algorithm and its applications
-<br>Author: [M Imran](https://muh-imran.github.io).
-<br>[(arXiv)](https://arxiv.org/abs/2205.04240).
+* <b>An exact quantum order finding algorithm and its applications</b>
+<br>[Muhammad Imran](https://muh-imran.github.io).
+<br>Available on [(arXiv)](https://arxiv.org/abs/2205.04240).
 
-* An exact quantum hidden subgroup algorithm and applications to solvable groups
-<br>Authors: [M Imran](https://muh-imran.github.io) & [G Ivanyos](http://old.sztaki.hu/~ivanyos/).
-<br>[(Quantum Inf. Comput.)](https://doi.org/10.26421/QIC22.9-10-4) or [(arXiv)](https://arxiv.org/abs/2202.04047).
+* <b>An exact quantum hidden subgroup algorithm and applications to solvable groups</b>
+<br>[Muhammad Imran](https://muh-imran.github.io) & [Gabor Ivanyos](http://old.sztaki.hu/~ivanyos/).
+<br>Available on [(Quantum Inf. Comput.)](https://doi.org/10.26421/QIC22.9-10-4) or [(arXiv)](https://arxiv.org/abs/2202.04047).
 
 ---
 
