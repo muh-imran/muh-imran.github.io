@@ -12,7 +12,7 @@ author_profile: true
 ## Education
 ---
 * <b>PhD in Mathematics (Expected June 2024)</b> at Budapest Univ. of Technology and Economics, Hungary.
-  * PhD Thesis : The Hidden Subgroup Problem and Cryptographic Applications
+  * PhD Thesis : The Hidden Subgroup Problem and Quantum Cryptanalysis
   * Supervisor : Prof. Gábor Ivanyos
 * <b>M.Sc in Mathematics (August 2019)</b> at Leiden University, The Netherlands.
   * M.Sc thesis: Gröbner bases for decoding linear codes
