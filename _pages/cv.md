@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Academic Position
 ---
-* <b>Sep. 2022 - Present &emsp;&emsp;&emsp;&emsp; Profesional Lecturer</b> at Informatics Faculty of Telkom University, Indonesia.
+* <b>Sep. 2022 - Present &emsp;&emsp;&emsp;&emsp; Lecturer</b> at Informatics Faculty of Telkom University, Indonesia.
 * <b>Feb. 2021 - Present &emsp;&emsp;&emsp;&emsp; Teaching Fellow</b> at Budapest Univ. of Technology and Economics, Hungary.
 
 ## Education
