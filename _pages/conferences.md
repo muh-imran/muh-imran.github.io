@@ -18,6 +18,7 @@ author_profile: true
 * Innovations in Theoretical Computer Science by Simon's Institute [[link]](http://itcs-conf.org)
 * The Conference on Quantum Information Processing at California Institute of Technology  [[link]](https://web.cvent.com/event/8adf8248-432b-499c-91e2-63b83ba3f69e/summary)
 * Asiacrypt 2023 [[link]](http://asiacrypt.iacr.org/2023/).
+* PQCrypto 2024 [[link]](https://www.maths.ox.ac.uk/events/conferences/pqcrypto-2024)
 
 ## Talks
 ---
