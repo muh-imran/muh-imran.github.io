@@ -29,7 +29,7 @@ author_profile: true
 
 * <b>An exact quantum hidden subgroup algorithm and applications to solvable groups</b>
 <br>[Muhammad Imran](https://muh-imran.github.io) & [Gabor Ivanyos](http://old.sztaki.hu/~ivanyos/).
-<br> Accepted in Quantum Information and Computation [(Published paper)](https://doi.org/10.26421/QIC22.9-10-4) or preprint available on [(arXiv)](https://arxiv.org/abs/2202.04047).
+<br> Accepted in Quantum Information and Computation [(Published paper)](https://doi.org/10.26421/QIC22.9-10-4). Preprint available on [(arXiv)](https://arxiv.org/abs/2202.04047).
 
 ---
 
