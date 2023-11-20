@@ -9,32 +9,31 @@ author_profile: true
 ### 2023
 * <b>Hidden stabilizers, the Isogeny to Endomorphism Ring Problem, and the Cryptanalysis of pSIDH</b>
 <br>[Mingjie Chen](https://www.birmingham.ac.uk/staff/profiles/computer-science/research-fellow/chen-mingjie.aspx), [Muhammad Imran](https://muh-imran.github.io), [Gabor Ivanyos](http://old.sztaki.hu/~ivanyos/), [Peter Kutas](https://sites.google.com/view/peterkutas89/main-page?authuser=0), [Antonin Leroux](https://tonioecto.github.io/antoninleroux/), & [Christophe Petit](https://christophe.petit.web.ulb.be/index.html).
-<br> Accepted at [Asiacrypt 2023](http://asiacrypt.iacr.org/2023/). Available on [(Cryptology ePrint)](https://eprint.iacr.org/2023/779) or [(arXiv)](https://arxiv.org/abs/2305.19897).
+<br> Accepted at [Asiacrypt 2023](http://asiacrypt.iacr.org/2023/). Preprint available on [(Cryptology ePrint)](https://eprint.iacr.org/2023/779)
 
 
 * <b>Zero sum subsequences and hidden subgroups</b>
 <br>[Muhammad Imran](https://muh-imran.github.io) & [Gabor Ivanyos](http://old.sztaki.hu/~ivanyos/).
-<br>Available on [(arXiv)](https://arxiv.org/abs/2304.08376).
+<br>Accepted at Quantum Information Processing. Preprint available on [(arXiv)](https://arxiv.org/abs/2304.08376).
   
 * <b>A private set intersection protocol based on multi-party quantum computation for greatest common divisor</b>
 <br>[Muhammad Imran](https://muh-imran.github.io).
-<br>Available on [(Cryptology ePrint)](https://eprint.iacr.org/2023/476).
+<br>Preprint available on [(Cryptology ePrint)](https://eprint.iacr.org/2023/476).
 
 
 ---
 ### 2022
 * <b>An exact quantum order finding algorithm and its applications</b>
 <br>[Muhammad Imran](https://muh-imran.github.io).
-<br>Available on [(arXiv)](https://arxiv.org/abs/2205.04240).
+<br>Preprint available on [(arXiv)](https://arxiv.org/abs/2205.04240).
 
 * <b>An exact quantum hidden subgroup algorithm and applications to solvable groups</b>
 <br>[Muhammad Imran](https://muh-imran.github.io) & [Gabor Ivanyos](http://old.sztaki.hu/~ivanyos/).
-<br>Available on [(Quantum Inf. Comput.)](https://doi.org/10.26421/QIC22.9-10-4) or [(arXiv)](https://arxiv.org/abs/2202.04047).
+<br> Accepted in Quantum Information and Computation [(Published paper)](https://doi.org/10.26421/QIC22.9-10-4) or preprint available on [(arXiv)](https://arxiv.org/abs/2202.04047).
 
 ---
 
 ## Research in progress
-
 
 ---
 * Efficient quantum algorithms for the semidirect discrete logarithm problem
@@ -44,14 +43,6 @@ author_profile: true
 * An exact quantum algorithm for factoring univariate polynomials over finite fields.
  <br> Author: [M Imran](https://muh-imran.github.io).
 
----
-## Lecture notes & systematic literature reviews
-
----
-#### Hidden subgroup problem in cryptography: a survey
-Author: Muhammad Imran
-
-In this survey, we conduct a systematic literature review on the most recent and important development in classical and quantum algorithms for some instances of finite hidden subgroup problem and other closely related problems (hidden shift and its generalization) which have strong connections with cryptography: group-based cryptography, lattice-based cryptography, isogeny-based cryptography, and some secure cryptographic protocols. The main purpose of this survey is to give cryptographic motivations for further investigations on finite hidden subgroup problem.
 
 ---
 ### <u>Recommended Source for Isogeny-based Cryptography</u>
