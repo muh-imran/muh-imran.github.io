@@ -18,5 +18,5 @@ author_profile: true
   * M.Sc thesis: Gröbner bases for decoding linear codes
   * Supervisor : Prof. Bas Edixhoven
 * <b>B.Sc in Mathematics (June 2016)</b> at Hasanuddin University, Indonesia.
-  * B.Sc thesis: Solutions to systems of linear equations over max-plus algebra
+  * B.Sc thesis: Systems of linear equations over max-plus algebra
   * Supervisor : Prof. Amir Kamal Amir.
