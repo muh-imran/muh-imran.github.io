@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a Ph.D student diving into computational algebra and quantum computing at [Doctoral School of Mathematics and Computer Science](https://doktori.math.bme.hu/english/index-E.html) of Budapest University of Technology and Economics under the supervision of [Gábor Ivanyos](http://old.sztaki.hu/~ivanyos/). 
 
-Previously, I completed my master's degree in mathematics with a specialization in algebra, geometry, and number theory at [Leiden University](https://www.universiteitleiden.nl/en/education/study-programmes/master/mathematics/algebra-geometry-and-number-theory). I studied Gröbner basis for decoding linear codes in my master thesis under the supervision of [Bas Edixhoven](https://en.wikipedia.org/wiki/Bas_Edixhoven).
+Previously, I completed my master's degree in mathematics with specialization in algebra, geometry, and number theory at [Leiden University](https://www.universiteitleiden.nl/en/education/study-programmes/master/mathematics/algebra-geometry-and-number-theory). I studied Gröbner basis for decoding linear codes in my master thesis under the supervision of [Bas Edixhoven](https://en.wikipedia.org/wiki/Bas_Edixhoven).
 
 Currently, I am working on:
 * Quantum algorithms, especially for some variants of the hidden subgroup problem (HSP);
