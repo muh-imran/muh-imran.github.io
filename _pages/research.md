@@ -9,7 +9,7 @@ author_profile: true
 ### 2023
 * <b>Hidden stabilizers, the Isogeny to Endomorphism Ring Problem, and the Cryptanalysis of pSIDH</b>
 <br>[Mingjie Chen](https://www.birmingham.ac.uk/staff/profiles/computer-science/research-fellow/chen-mingjie.aspx), [Muhammad Imran](https://muh-imran.github.io), [Gabor Ivanyos](http://old.sztaki.hu/~ivanyos/), [Peter Kutas](https://sites.google.com/view/peterkutas89/main-page?authuser=0), [Antonin Leroux](https://tonioecto.github.io/antoninleroux/), & [Christophe Petit](https://christophe.petit.web.ulb.be/index.html).
-<br> Accepted at [Asiacrypt 2023](http://asiacrypt.iacr.org/2023/). Preprint available on [Cryptology ePrint](https://eprint.iacr.org/2023/779)
+<br> Published at [Advances in Cryptology - Asiacrypt 2023](https://doi.org/10.1007/978-981-99-8727-6_4). Preprint available on [Cryptology ePrint](https://eprint.iacr.org/2023/779)
 
 
 * <b>Zero sum subsequences and hidden subgroups</b>
