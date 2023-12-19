@@ -34,8 +34,6 @@ author_profile: true
 ---
 
 ### Research in progress
-
----
 * Efficient quantum algorithms for the semidirect discrete logarithm problem
   <br>Author: [M Imran](https://muh-imran.github.io) & [G Ivanyos](http://old.sztaki.hu/~ivanyos/).
 * On the hidden multiple shift problem.
