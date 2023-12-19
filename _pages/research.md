@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ---
-### Published papers
+## Published papers
 * <b>Hidden stabilizers, the Isogeny to Endomorphism Ring Problem, and the Cryptanalysis of pSIDH</b>
 <br>[Mingjie Chen](https://www.birmingham.ac.uk/staff/profiles/computer-science/research-fellow/chen-mingjie.aspx), [Muhammad Imran](https://muh-imran.github.io), [Gabor Ivanyos](http://old.sztaki.hu/~ivanyos/), [Peter Kutas](https://sites.google.com/view/peterkutas89/main-page?authuser=0), [Antonin Leroux](https://tonioecto.github.io/antoninleroux/), & [Christophe Petit](https://christophe.petit.web.ulb.be/index.html).
 <br> Accepted in Advances in Cryptology - Asiacrypt 2023, [published paper](https://doi.org/10.1007/978-981-99-8727-6_4). Preprint available on [Cryptology ePrint](https://eprint.iacr.org/2023/779)
@@ -22,7 +22,7 @@ author_profile: true
 
 
 ---
-### Preprints
+## Preprints
 * <b>An exact quantum order finding algorithm and its applications</b>
 <br>[Muhammad Imran](https://muh-imran.github.io).
 <br>Preprint available on [arXiv](https://arxiv.org/abs/2205.04240).
@@ -33,7 +33,7 @@ author_profile: true
 
 ---
 
-### Research in progress
+## Research in progress
 * Efficient quantum algorithms for the semidirect discrete logarithm problem
   <br>Author: [M Imran](https://muh-imran.github.io) & [G Ivanyos](http://old.sztaki.hu/~ivanyos/).
 * On the hidden multiple shift problem.
@@ -43,7 +43,7 @@ author_profile: true
 
 
 ---
-### Recommended Source for Isogeny-based Cryptography
+## Recommended source for Isogeny-based cryptography
 * <b>Isogeny-Based Cryptography School 2021</b> [[link]](https://isogenyschool2020.co.uk/).
 * <b>Leuven Isogeny Days 2022</b> [[link]](https://www.esat.kuleuven.be/cosic/projects/isocrypt/workshops/)
 * <b>Isogeny Club</b> [[link]](https://isogeny.club)
