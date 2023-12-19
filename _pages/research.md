@@ -33,7 +33,7 @@ author_profile: true
 
 ---
 
-## Research in progress
+### Research in progress
 
 ---
 * Efficient quantum algorithms for the semidirect discrete logarithm problem
