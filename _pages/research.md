@@ -23,19 +23,20 @@ author_profile: true
 
 ---
 ## Preprints
-* <b>An exact quantum order finding algorithm and its applications</b>
-<br>[Muhammad Imran](https://muh-imran.github.io).
-<br>Preprint available on [arXiv](https://arxiv.org/abs/2205.04240).
+* <b>Efficient quantum algorithms for some instances of the semidirect discrete logarithm problem</b>
+<br>[M Imran](https://muh-imran.github.io) & [G Ivanyos](http://old.sztaki.hu/~ivanyos/).
 
 * <b>A private set intersection protocol based on multi-party quantum computation for greatest common divisor</b>
 <br>[Muhammad Imran](https://muh-imran.github.io).
 <br>Preprint available on [Cryptology ePrint](https://eprint.iacr.org/2023/476).
 
+* <b>An exact quantum order finding algorithm and its applications</b>
+<br>[Muhammad Imran](https://muh-imran.github.io).
+<br>Preprint available on [arXiv](https://arxiv.org/abs/2205.04240).
+
 ---
 
 ## Research in progress
-* Efficient quantum algorithms for the semidirect discrete logarithm problem
-  <br>Author: [M Imran](https://muh-imran.github.io) & [G Ivanyos](http://old.sztaki.hu/~ivanyos/).
 * On the hidden multiple shift problem.
  <br>Author: [M Imran](https://muh-imran.github.io).
 * An exact quantum algorithm for factoring univariate polynomials over finite fields.
