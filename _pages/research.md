@@ -46,8 +46,8 @@ author_profile: true
 
 ---
 ## Recommended source for Isogeny-based cryptography
-* <b>Isogeny-Based Cryptography School 2021</b> [[link]](https://isogenyschool2020.co.uk/).
-* <b>Leuven Isogeny Days 2022</b> [[link]](https://www.esat.kuleuven.be/cosic/projects/isocrypt/workshops/)
-* <b>Isogeny Club</b> [[link]](https://isogeny.club)
+* Isogeny-Based Cryptography School 2021 [[link]](https://isogenyschool2020.co.uk/).
+* Leuven Isogeny Days 2022 [[link]](https://www.esat.kuleuven.be/cosic/projects/isocrypt/workshops/)
+* Isogeny Club [[link]](https://isogeny.club)
  
 ---
