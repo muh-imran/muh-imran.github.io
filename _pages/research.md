@@ -25,7 +25,7 @@ author_profile: true
 ## Preprints
 * <b>Efficient quantum algorithms for some instances of the semidirect discrete logarithm problem</b>
 <br>[M Imran](https://muh-imran.github.io) & [G Ivanyos](http://old.sztaki.hu/~ivanyos/).
-<br>Preprint available on (arXiv)[https://arxiv.org/abs/2312.14028].
+<br>Preprint available on [arXiv](https://arxiv.org/abs/2312.14028).
 
 * <b>A private set intersection protocol based on multi-party quantum computation for greatest common divisor</b>
 <br>[Muhammad Imran](https://muh-imran.github.io).
