@@ -7,6 +7,10 @@ author_profile: true
 
 ---
 ## Published papers
+* <b>Efficient quantum algorithms for some instances of the semidirect discrete logarithm problem</b>
+<br>[Muhammad Imran](https://muh-imran.github.io) & [Gabor Ivanyos](http://old.sztaki.hu/~ivanyos/).
+<br>Accepted in Designs, Codes and Cryptography. Preprint available on [Cryptology ePrint](https://eprint.iacr.org/2023/1953/).
+
 * <b>Zero sum subsequences and hidden subgroups</b>
 <br>[Muhammad Imran](https://muh-imran.github.io) & [Gabor Ivanyos](http://old.sztaki.hu/~ivanyos/).
 <br>Accepted in Quantum Information Processing, [published paper](https://doi.org/10.1007/s11128-023-04228-2). Preprint available on [arXiv](https://arxiv.org/abs/2304.08376).
@@ -23,10 +27,6 @@ author_profile: true
 
 ---
 ## Preprints
-* <b>Efficient quantum algorithms for some instances of the semidirect discrete logarithm problem</b>
-<br>[Muhammad Imran](https://muh-imran.github.io) & [Gabor Ivanyos](http://old.sztaki.hu/~ivanyos/).
-<br>Preprint available on [arXiv](https://arxiv.org/abs/2312.14028) and [Cryptology ePrint](https://eprint.iacr.org/2023/1953/).
-
 * <b>A private set intersection protocol based on multi-party quantum computation for greatest common divisor</b>
 <br>[Muhammad Imran](https://muh-imran.github.io).
 <br>Preprint available on [Cryptology ePrint](https://eprint.iacr.org/2023/476).
