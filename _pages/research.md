@@ -9,7 +9,7 @@ author_profile: true
 ## Published papers
 * <b>Efficient quantum algorithms for some instances of the semidirect discrete logarithm problem</b>
 <br>[Muhammad Imran](https://muh-imran.github.io) & [Gabor Ivanyos](http://old.sztaki.hu/~ivanyos/).
-<br>Accepted in Designs, Codes and Cryptography. Preprint available on [Cryptology ePrint](https://eprint.iacr.org/2023/1953/).
+<br>Accepted in Designs, Codes and Cryptography, [published paper](). Preprint available on [Cryptology ePrint](https://eprint.iacr.org/2023/1953/).
 
 * <b>Zero sum subsequences and hidden subgroups</b>
 <br>[Muhammad Imran](https://muh-imran.github.io) & [Gabor Ivanyos](http://old.sztaki.hu/~ivanyos/).
