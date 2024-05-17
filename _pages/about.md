@@ -17,6 +17,7 @@ Currently, I am working on:
 * Quantum cryptography.
 
 ## What's new??
+* (22-04-2024) Our manuscript, <i>Efficient quantum algorithms for some instances of the semidirect discrete logarithm problem</i>, is accepted for publication in Designs, Codes and Cryptography. 
 * (21-12-2023) We just finalized our manuscript, <i>Efficient quantum algorithms for some instances of the semidirect discrete logarithm problem</i>, which provides a quantum cryptanalysis for the proposed semidirect product key exchange cryptosystem in group-based cryptography.
 * (17-12-2023) Our manuscript, <i>Zero sum subsequences and hidden subgroups</i>, is accepted for publication in Quantum Information Processing.
 * (25-08-2023) Our paper entitled <i>Hidden stabilizer, the Isogeny to Endomorphism Ring Problem and the Cryptanalysis of [pSIDH](https://link.springer.com/chapter/10.1007/978-3-031-22966-4_1)</i>  is accepted in [Asiacrypt 2023](http://asiacrypt.iacr.org/).
