@@ -4,8 +4,9 @@ title: ""
 permalink: /teaching/
 author_profile: true
 ---
+
 ## Universitas Indonesia
---
+---
 This fall 2024, I teach Calculus and Linear Algebra.
 
 ## Budapest University of Technology and Economics
