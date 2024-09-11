@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Muhammad Imran"
 title_separator          : "-"
 name                     : &name "Muhammad Imran"
-description              : &description "PhD Student at Budapest Uin. of Technology & Economics"
+description              : &description "Faculty Member at Universitas Indonesia"
 url                      : https://muh-imran.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "muh-imran/muh-imran.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Muhammad Imran"
   avatar           : "github.JPG"
-  bio              : "PhD student at Budapest Univ. of Technology & Economics"
-  location         : "Budapest, Hungary"
+  bio              : "Faculty Member at Universitas Indonesia"
+  location         : "Depok, Indonesia"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=pCCid6gAAAAJ&hl=en"
