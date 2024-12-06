@@ -29,12 +29,6 @@ author_profile: true
 <br> Accepted in International Journal of Quantum Information.
 
 ---
-## Preprints
-* <b>An exact quantum order finding algorithm and its applications</b>
-<br>[Muhammad Imran](https://muh-imran.github.io).
-<br>Preprint available on [arXiv](https://arxiv.org/abs/2205.04240).
-
----
 
 ## Research in progress
 * Efficient quantum algorithms for some instances of the generalized discrete logarithm problem
@@ -44,4 +38,8 @@ author_profile: true
 * An exact quantum algorithm for factoring univariate polynomials over finite fields.
  <br> Author: [M Imran](https://muh-imran.github.io).
 
-
+---
+## Preprints
+* <b>An exact quantum order finding algorithm and its applications</b>
+<br>[Muhammad Imran](https://muh-imran.github.io).
+<br>Preprint available on [arXiv](https://arxiv.org/abs/2205.04240).
