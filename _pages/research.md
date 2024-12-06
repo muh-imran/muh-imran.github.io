@@ -33,9 +33,9 @@ author_profile: true
 ## Research in progress
 * Efficient quantum algorithms for some instances of the generalized discrete logarithm problem
   <br>Author: [M Imran](https://muh-imran.github.io).
-* On the hidden multiple shift problem.
+* On the hidden multiple shift problem
  <br>Author: [M Imran](https://muh-imran.github.io).
-* An exact quantum algorithm for factoring univariate polynomials over finite fields.
+* An exact quantum algorithm for factoring univariate polynomials over finite fields
  <br> Author: [M Imran](https://muh-imran.github.io).
 
 ---
