@@ -11,5 +11,5 @@ I am a faculty member in the department of mathematics at [Universitas Indonesia
 
 My reasearch interests lie in computational algebra and its applications in computer science (particularly, in quantum computing and cryptography). Currently, I am working on:
 * Quantum algorithms, especially for some variants of the hidden subgroup problem (HSP);
-* HSP-based cryptanalysis for post-quantum cryptography;
-* Quantum cryptography and post-quantum cryptography.
+* Quantum cryptanalysis and post-quantum cryptography;
+* Quantum cryptography.
