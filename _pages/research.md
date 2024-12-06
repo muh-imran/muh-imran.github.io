@@ -24,7 +24,7 @@ author_profile: true
 <br> Accepted in Quantum Information and Computation [published paper](https://doi.org/10.26421/QIC22.9-10-4). Preprint available on [arXiv](https://arxiv.org/abs/2202.04047).
 
 
-*<b>A multi-party quantum private set intersection based on greatest common divisor</b>
+* <b>A multi-party quantum private set intersection based on greatest common divisor</b>
 <br>[Muhammad Imran](https://muh-imran.github.io).
 <br> Accepted in International Journal of Quantum Information.
 
