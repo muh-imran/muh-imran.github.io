@@ -25,12 +25,12 @@ author_profile: true
 <br> Accepted in Quantum Information and Computation [published paper](https://doi.org/10.26421/QIC22.9-10-4). Preprint available on [arXiv](https://arxiv.org/abs/2202.04047).
 
 
+*<b>A multi-party quantum private set intersection based on greatest common divisor</b>
+<br>[Muhammad Imran](https://muh-imran.github.io).
+<br> Accepted in International Journal of Quantum Information.
+
 ---
 ## Preprints
-* <b>A private set intersection protocol based on multi-party quantum computation for greatest common divisor</b>
-<br>[Muhammad Imran](https://muh-imran.github.io).
-<br>Preprint available on [Cryptology ePrint](https://eprint.iacr.org/2023/476).
-
 * <b>An exact quantum order finding algorithm and its applications</b>
 <br>[Muhammad Imran](https://muh-imran.github.io).
 <br>Preprint available on [arXiv](https://arxiv.org/abs/2205.04240).
@@ -38,16 +38,11 @@ author_profile: true
 ---
 
 ## Research in progress
+* Efficient quantum algorithms for some instances of the generalized discrete logarithm problem
+  <br>Author: [M Imran](https://muh-imran.github.io).
 * On the hidden multiple shift problem.
  <br>Author: [M Imran](https://muh-imran.github.io).
 * An exact quantum algorithm for factoring univariate polynomials over finite fields.
  <br> Author: [M Imran](https://muh-imran.github.io).
 
 
----
-## Recommended source for Isogeny-based cryptography
-* Isogeny-Based Cryptography School 2021 [[link]](https://isogenyschool2020.co.uk/).
-* Leuven Isogeny Days 2022 [[link]](https://www.esat.kuleuven.be/cosic/projects/isocrypt/workshops/)
-* Isogeny Club [[link]](https://isogeny.club)
- 
----
