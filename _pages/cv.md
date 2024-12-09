@@ -34,3 +34,4 @@ author_profile: true
 * (01-12-2022) Thesis Camp: "Hidden Subgroup Problem in Cryptography" at School of Computing, Telkom University
 * (27-06-2023) Algebra Joint Seminar: "Hidden Subgroup and Shift Problem in Post-Quantum Cryptography" Organized by Indonesian Algebra Society
 * (03-07-2023) "Hidden Shift Problem: A quantum cryptanalysis for LWE and Isogeny Problem" at Center for Cryptography and Cyber Security, Gadjah Mada University
+* (04-09-2024) "The Hidden Subgroup Problem and Cryptography" at Mathematics Department, Universitas Indonesia.
