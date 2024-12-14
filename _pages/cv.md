@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Academic Position
 ---
-* <b>July 2024 - Present &emsp;&emsp;&emsp;&emsp;&emsp; Junior Lecturer</b> at University of Indonesia.
+* <b>Sep. 2024 - Present &emsp;&emsp;&emsp;&emsp;&emsp; Junior Lecturer</b> at University of Indonesia.
 * <b>Feb. 2021 - Sep. 2024 &emsp;&emsp;&emsp;&emsp; Teaching Fellow</b> at Budapest Univ. of Technology and Economics, Hungary.
 
 ## Education
