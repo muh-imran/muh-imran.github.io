@@ -26,7 +26,7 @@ author_profile: true
 
 * <b>A multi-party quantum private set intersection based on greatest common divisor</b>
 <br>[Muhammad Imran](https://muh-imran.github.io).
-<br> Accepted in International Journal of Quantum Information.
+<br> Accepted in International Journal of Quantum Information [published paper](https://doi.org/10.1142/S0219749924500539).
 
 ---
 
