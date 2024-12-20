@@ -7,7 +7,7 @@ author_profile: true
 ## Academic Position
 ---
 * <b>Jun. 2025 - Sep. 2026 &emsp;&emsp; Postdoctoral Research Fellow</b> at The University of Birmingham, UK.
-* <b>Sep. 2024 - Present &emsp;&emsp;&emsp;  Junior Lecturer</b> at University of Indonesia.
+* <b>Sep. 2024 - Present &emsp;&emsp;&emsp;   Junior Lecturer</b> at University of Indonesia.
 * <b>Feb. 2021 - June 2024 &emsp;&emsp; Teaching Fellow</b> at Budapest Univ. of Technology and Economics, Hungary.
 
 ## Education
