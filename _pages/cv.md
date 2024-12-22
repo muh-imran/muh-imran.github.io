@@ -13,10 +13,10 @@ author_profile: true
 ## Education
 ---
 * <b>PhD in Mathematics (September 2024)</b> at Budapest Univ. of Technology and Economics, Hungary.
-  * PhD Thesis: The hidden subgroup problem and quantum cryptanalysis
+  * PhD Thesis: The hidden subgroup problem and quantum cryptanalysis [link](https://repozitorium.omikk.bme.hu/bitstreams/adc8086d-794e-44bb-a8cd-1b604113ae42/download)
   * Supervisor : Prof. Gábor Ivanyos
 * <b>M.Sc in Mathematics (August 2019)</b> at Leiden University, The Netherlands.
-  * M.Sc thesis: Gröbner bases for decoding linear codes
+  * M.Sc thesis: Gröbner bases for decoding linear codes [link](https://www.universiteitleiden.nl/binaries/content/assets/science/mi/scripties/master/2018-2019/master_thesis-final-imran.pdf)
   * Supervisor: Prof. Bas Edixhoven
 * <b>B.Sc in Mathematics (June 2016)</b> at Hasanuddin University, Indonesia.
 
