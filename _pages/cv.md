@@ -31,7 +31,7 @@ author_profile: true
 
 ## Talks
 ---
-* (01-14-2025) "Securing the Digital Future: Post-Quantum Cryptography and Quantum Cryptanalysis", Joint Symposium between City University of Hongkong & Universitas Indonesia
+* (01-14-2025) "Securing the Digital Future: Post-Quantum Cryptography and Quantum Cryptanalysis", Joint Symposium between City University of Hongkong & Universitas Indonesia.
 * (04-09-2024) "The Hidden Subgroup Problem and Cryptography" at Mathematics Department, Universitas Indonesia.
 * (03-07-2023) "Hidden Shift Problem: A quantum cryptanalysis for LWE and Isogeny Problem" at Center for Cryptography and Cyber Security, Gadjah Mada University
 * (27-06-2023) Algebra Joint Seminar: "Hidden Subgroup and Shift Problem in Post-Quantum Cryptography" Organized by Indonesian Algebra Society
