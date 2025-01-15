@@ -7,7 +7,8 @@ author_profile: true
 
 ### Universitas Indonesia
 ---
-This fall 2024, I teach Calculus and Linear Algebra.
+This spring 2025, I teach Algebra, Cryptography, Calculus, and Analytical Geometry.
+* Fall 2024, Calculus and Elementary Linear Algebra.
 
 ### Budapest University of Technology and Economics
 ---
@@ -20,6 +21,6 @@ During my PhD, I taught some algebra and computer science courses:
 
 ### Hasanuddin University
 ---
-I was a teaching assistant for calculus 1 & 2:
+I was a teaching assistant for Calculus 1 & 2:
 * <b>Calculus 1</b>, Fall 2014, Fall 2015.
 * <b>Calculus 2</b>, Spring 2015, Spring 2020.
