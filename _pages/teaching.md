@@ -5,12 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Universitas Indonesia
+## Universitas Indonesia
 ---
 This spring 2025, I teach Algebra, Cryptography, Calculus, and Analytical Geometry.
 * Fall 2024, Calculus and Elementary Linear Algebra.
 
-### Budapest University of Technology and Economics
+## Budapest University of Technology and Economics
 ---
 During my PhD, I taught some algebra and computer science courses:
 
