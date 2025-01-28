@@ -18,9 +18,3 @@ During my PhD, I taught some algebra and computer science courses:
 * <b>Introduction to Algebra 2</b>, Spring 2022 <br>Together with [Erdélyi Márton](https://math.bme.hu/~merdelyi/).
 * <b>Introduction to Algebra 1</b>, Fall 2021 <br>Together with [Erdélyi Márton](https://math.bme.hu/~merdelyi/).
 * <b>Informatics 2</b>, Spring 2021 <br>Together with [Wettl Ferenc](https://algebra.math.bme.hu/wettl-ferenc).
-
-### Hasanuddin University
----
-I was a teaching assistant for Calculus 1 & 2:
-* <b>Calculus 1</b>, Fall 2014, Fall 2015.
-* <b>Calculus 2</b>, Spring 2015, Spring 2020.
