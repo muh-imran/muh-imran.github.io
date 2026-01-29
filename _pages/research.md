@@ -15,7 +15,6 @@ author_profile: true
 
 * Imran, M. & Ivanyos, G. (2022). An exact quantum hidden subgroup algorithm and applications to solvable groups. Quantum Information and Computation, 22(9 & 10).
   
----
 
 ## Conference Articles
 * Arif, M.F.H., and Imran, M. (2025). On the classical hardness of the semidirect discrete logarithm problem in finite groups. In International Conference on Cryptology in India - INDOCRYPT 2025.
@@ -24,14 +23,12 @@ author_profile: true
 
 * Chen, M., Imran, M., Ivanyos, G., Kutas, P., Lerox, A., & Petit, C. (2023). Hidden stabilizers, the isogeny to endomorphism ring problem, and the cryptanalysis of pSIDH. In International Conference on the Theory and Application of Cryptology and Information Security - ASIACRYPT 2023.
   
----
 
 ## Theses
 * Imran, M. (2019). Gröbner bases for decoding linear codes. Master Thesis, Leiden University.
 
 * Imran, M. (2024). The hidden subgroup problem and quantum cryptanalysis. PhD Thesis, Budapest University of Technology and Economics.
   
----
 
 ## Submitted Work
 * An exact quantum order finding algorithm and its applications
