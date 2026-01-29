@@ -30,7 +30,7 @@ author_profile: true
 * Imran, M. (2024). The hidden subgroup problem and quantum cryptanalysis. PhD Thesis, Budapest University of Technology and Economics.
   
 
-## Submitted Work
+### Submitted Work
 * An exact quantum order finding algorithm and its applications
 
 
