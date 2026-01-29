@@ -7,11 +7,11 @@ author_profile: true
 ### Academic Positions
 ---
 * <b>June 2025 - present</b>
-  Postdoctoral Research Fellow at the University of Birmingham, UK
+  <br>Postdoctoral Research Fellow at the University of Birmingham, UK
 * <b>Dec. 2025 - present</b>
-  Assistant Professor (Lektor) at the Universitas Indonesia
+  <br>Assistant Professor (Lektor) at the Universitas Indonesia
 * <b>Sep. 2024 - Nov. 2025</b>
-  Teaching staff at the Universitas Indonesia
+  <br>Teaching staff at the Universitas Indonesia
 
 ### Education
 ---
