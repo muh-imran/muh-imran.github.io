@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Muhammad Imran"
 title_separator          : "-"
 name                     : &name "Muhammad Imran"
-description              : &description "Faculty Member at Universitas Indonesia"
+description              : &description "Assistant Professor at Universitas Indonesia & Research Fellow at University of Birmingham"
 url                      : https://muh-imran.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "muh-imran/muh-imran.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Muhammad Imran"
   avatar           : "github.JPG"
-  bio              : "Faculty Member at Universitas Indonesia"
+  bio              : "Assistant Professor at Universitas Indonesia & Research Fellow at University of Birmingham"
   location         : "Depok, Indonesia"
   employer         :
   pubmed           :
