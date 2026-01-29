@@ -9,7 +9,7 @@ author_profile: true
 ---
 As a lecturer at the University of Indonesia, I teach several undergraduate courses each semester, primarily in Algebra and Cryptography. In addition to teaching, I actively seek to supervise students' research projects in mathematical cryptography and computational algebra.
 
-<b>Students' research projects:</b>
+Students' research projects:
 * Brayen Damara: The Shifted Discrete Logarithm Problem on Finite Semigroups as a Basis for Post-Quantum Cryptography Protocols
 * Muhammad Ferry Husnil: On the Classical Hardness of the Semidirect Discrete Logarithm Problem in Finite Groups
 * Fritz Adelbertus Sitindaon: Hawk Signature Protocol
