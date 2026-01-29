@@ -12,10 +12,10 @@ author_profile: true
 
 ### Education
 ---
-* <b>Sep. 2020 - Jan. 2025</b> Ph.D. in Mathematics at Budapest University of Technology and Economics, Hungary
+* <b>Sep. 2020 - Jan. 2025</b>  Ph.D. in Mathematics at Budapest University of Technology and Economics, Hungary
   * Ph.D. thesis: The Hidden Subgroup Problem and Quantum Cryptanalysis
   * Supervisor: Prof. Gabor Ivanyos
-* <b>Sep. 2017 - Aug. 2019 M.Sc.</b> in Mathematics at Leiden University, the Netherlands
+* <b>Sep. 2017 - Aug. 2019</b>  M.Sc. in Mathematics at Leiden University, the Netherlands
   * Master thesis: Gröbner bases for decoding linear codes
   * Thesis advisor: Prof. Bas Edixhoven
-* <b>Sep. 2012 - Jun. 2016 B.Sc.</b> in Mathematics at Hasanuddin University, Indonesia
+* <b>Sep. 2012 - Jun. 2016</b>  B.Sc. in Mathematics at Hasanuddin University, Indonesia
