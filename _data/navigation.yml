@@ -3,10 +3,13 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Research"
+  - title: "Research & Publication"
     url: /research/
 
-  - title: "Teaching"
+  - title: "Teaching & Seminar"
     url: /teaching/
+
+   - title: "Awards & Grants"
+    url: /award/
     
   
